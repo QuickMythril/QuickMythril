@@ -1,6 +1,6 @@
 # QuickMythril
 
-I am the primary maintainer and an administrator of
+I am a primary maintainer and an administrator of
 [Qortium](https://qortium.app), an independent open-source Qortal-family
 blockchain and QDN platform currently running a live Previewnet.
 
